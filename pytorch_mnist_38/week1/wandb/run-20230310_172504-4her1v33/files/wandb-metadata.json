@@ -1,0 +1,34 @@
+{
+    "os": "macOS-13.2-arm64-arm-64bit",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-03-10T08:25:05.759753",
+    "startedAt": "2023-03-10T08:25:04.910305",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/hoho/hoho_dir/Development/github/2023-1-PyTorch-Lecture/pytorch_mnist_38/week1/exp2_find_lr.py",
+    "codePath": "pytorch_mnist_38/week1/exp2_find_lr.py",
+    "git": {
+        "remote": "https://github.com/kumass2020/2023-1-PyTorch-Lecture.git",
+        "commit": "9e95002b7f7cfbd83e9129e94bd81f893d576139"
+    },
+    "email": "kumass2021@gmail.com",
+    "root": "/Users/hoho/hoho_dir/Development/github/2023-1-PyTorch-Lecture",
+    "host": "hohos-MacBookPro.local",
+    "username": "hoho",
+    "executable": "/Users/hoho/opt/anaconda3/envs/pytorch_mnist_38/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "total": 926.3517189025879,
+        "used": 8.332351684570312
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
